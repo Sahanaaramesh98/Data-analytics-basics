@@ -1,0 +1,1 @@
+This repository is part of my learning process to understand the basics of data analytics programming. While not a fully finished product, this project reflects my ongoing journey and provides insight into how I approach data analysis tasks, including understanding and cleaning data, feature engineering, and performing basic analysis
